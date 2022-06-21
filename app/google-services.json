@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "621554064540",
+    "project_id": "allinonedwn",
+    "storage_bucket": "allinonedwn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621554064540:android:fc90b4fabab362895ce159",
+        "android_client_info": {
+          "package_name": "com.kobirbappy.allinonedwn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621554064540-sqp86sede51ndj1mnt3vr4v1tp7qn8uo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeItqOHlaI_N9uTfxfv9O-KUCKnMn1tKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621554064540-sqp86sede51ndj1mnt3vr4v1tp7qn8uo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
